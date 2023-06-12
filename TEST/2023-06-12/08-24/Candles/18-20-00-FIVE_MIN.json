@@ -1,0 +1,27 @@
+{
+    "candle": {
+        "time": "2023-06-12 18:20:00",
+        "interval": "FIVE_MIN",
+        "open": 1963.04004,
+        "low": 1962.94995,
+        "high": 1964.01001,
+        "close": 1963.95996
+    },
+    "fuzzy_candle": {
+        "lower_shadow_level_short": 0.8300284889531842,
+        "lower_shadow_level_long": 0.0,
+        "upper_shadow_level_short": 0.9055713827518166,
+        "upper_shadow_level_long": 0.0,
+        "body_level_small": 0.0,
+        "body_level_large": 0.7355998717050007
+    },
+    "type": {
+        "hammer": 0.0,
+        "inverted_hammer": 0.0,
+        "long_bar": 0.7355998717050007
+    },
+    "color": {
+        "red": 0,
+        "green": 1
+    }
+}
