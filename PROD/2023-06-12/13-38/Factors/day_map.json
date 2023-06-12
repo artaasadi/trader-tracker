@@ -1,0 +1,28 @@
+{
+    "hitmap": {
+        "1956.58005, 1956.7800499999998": {
+            "hit": true,
+            "above": 1.0,
+            "below": 0.0
+        }
+    },
+    "last_five_min": {
+        "hammer": 0.12500502234402733,
+        "inverted_hammer": 0.0,
+        "long_bar": 0.0
+    },
+    "current_five_min": {
+        "hammer": 0.0,
+        "inverted_hammer": 0.0,
+        "long_bar": 0.7747717311497122,
+        "color": {
+            "red": 1,
+            "green": 0
+        }
+    },
+    "current_bigger": 0.8807970779778823,
+    "signal": {
+        "buy": 0.0,
+        "sell": 0.0
+    }
+}
