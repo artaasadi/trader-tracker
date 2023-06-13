@@ -1,0 +1,43 @@
+{
+    "hitmap": {
+        "1949.23997, 1949.43997": {
+            "hit": false,
+            "above": 1.0,
+            "below": 0.0
+        },
+        "1953.6699925, 1953.8699924999999": {
+            "hit": false,
+            "above": 1.0,
+            "below": 0.0
+        },
+        "1958.100015, 1958.3000149999998": {
+            "hit": false,
+            "above": 1.0,
+            "below": 0.0
+        },
+        "1962.5300375000002, 1962.7300375": {
+            "hit": true,
+            "above": 0.4444444444444444,
+            "below": 0.5555555555555556
+        }
+    },
+    "last_five_min": {
+        "hammer": 0.0,
+        "inverted_hammer": 0.0,
+        "long_bar": 0.364166059723372
+    },
+    "current_five_min": {
+        "hammer": 0.0,
+        "inverted_hammer": 0.0,
+        "long_bar": 0.0,
+        "color": {
+            "red": 0,
+            "green": 1
+        }
+    },
+    "current_bigger": 8.253556043985164e-07,
+    "signal": {
+        "buy": 0.0,
+        "sell": 0.0
+    }
+}
