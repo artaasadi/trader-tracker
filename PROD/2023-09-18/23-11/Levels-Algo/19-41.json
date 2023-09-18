@@ -1,0 +1,348 @@
+{
+    "candle": {
+        "datetime": "19-41",
+        "open": "1932.16",
+        "low": "1932.135",
+        "high": "1932.175",
+        "close": "1932.175"
+    },
+    "levels": [
+        {
+            "datetime": "12-54",
+            "pos": "ABOVE",
+            "price": "1934.22",
+            "strength": "6268"
+        },
+        {
+            "datetime": "12-59",
+            "pos": "ABOVE",
+            "price": "1933.91",
+            "strength": "6263"
+        },
+        {
+            "datetime": "13-05",
+            "pos": "ABOVE",
+            "price": "1933.65",
+            "strength": "6257"
+        },
+        {
+            "datetime": "13-27",
+            "pos": "ABOVE",
+            "price": "1933.475",
+            "strength": "6235"
+        },
+        {
+            "datetime": "14-17",
+            "pos": "BELOW",
+            "price": "1901.2",
+            "strength": "3074"
+        },
+        {
+            "datetime": "14-19",
+            "pos": "BELOW",
+            "price": "1901.45",
+            "strength": "3072"
+        },
+        {
+            "datetime": "14-28",
+            "pos": "BELOW",
+            "price": "1903.965",
+            "strength": "3063"
+        },
+        {
+            "datetime": "14-31",
+            "pos": "BELOW",
+            "price": "1905.545",
+            "strength": "3060"
+        },
+        {
+            "datetime": "15-42",
+            "pos": "BELOW",
+            "price": "1906.025",
+            "strength": "2989"
+        },
+        {
+            "datetime": "15-47",
+            "pos": "BELOW",
+            "price": "1906.345",
+            "strength": "2984"
+        },
+        {
+            "datetime": "18-59",
+            "pos": "BELOW",
+            "price": "1908.22",
+            "strength": "2792"
+        },
+        {
+            "datetime": "19-03",
+            "pos": "BELOW",
+            "price": "1908.365",
+            "strength": "2788"
+        },
+        {
+            "datetime": "19-55",
+            "pos": "BELOW",
+            "price": "1908.405",
+            "strength": "2736"
+        },
+        {
+            "datetime": "20-05",
+            "pos": "BELOW",
+            "price": "1909.315",
+            "strength": "2726"
+        },
+        {
+            "datetime": "20-09",
+            "pos": "BELOW",
+            "price": "1909.415",
+            "strength": "2722"
+        },
+        {
+            "datetime": "20-11",
+            "pos": "BELOW",
+            "price": "1909.59",
+            "strength": "2720"
+        },
+        {
+            "datetime": "20-13",
+            "pos": "BELOW",
+            "price": "1909.86",
+            "strength": "2718"
+        },
+        {
+            "datetime": "00-00",
+            "pos": "BELOW",
+            "price": "1909.9",
+            "strength": "2556"
+        },
+        {
+            "datetime": "00-06",
+            "pos": "BELOW",
+            "price": "1910.235",
+            "strength": "2550"
+        },
+        {
+            "datetime": "00-28",
+            "pos": "BELOW",
+            "price": "1910.28",
+            "strength": "2528"
+        },
+        {
+            "datetime": "00-30",
+            "pos": "BELOW",
+            "price": "1910.5",
+            "strength": "2526"
+        },
+        {
+            "datetime": "01-07",
+            "pos": "BELOW",
+            "price": "1910.615",
+            "strength": "2489"
+        },
+        {
+            "datetime": "01-09",
+            "pos": "BELOW",
+            "price": "1910.645",
+            "strength": "2487"
+        },
+        {
+            "datetime": "01-11",
+            "pos": "BELOW",
+            "price": "1910.915",
+            "strength": "2485"
+        },
+        {
+            "datetime": "01-21",
+            "pos": "BELOW",
+            "price": "1911.325",
+            "strength": "2475"
+        },
+        {
+            "datetime": "01-25",
+            "pos": "BELOW",
+            "price": "1911.57",
+            "strength": "2471"
+        },
+        {
+            "datetime": "01-32",
+            "pos": "BELOW",
+            "price": "1911.815",
+            "strength": "2464"
+        },
+        {
+            "datetime": "01-39",
+            "pos": "BELOW",
+            "price": "1914.0",
+            "strength": "2457"
+        },
+        {
+            "datetime": "01-53",
+            "pos": "BELOW",
+            "price": "1914.54",
+            "strength": "2443"
+        },
+        {
+            "datetime": "03-15",
+            "pos": "BELOW",
+            "price": "1914.78",
+            "strength": "2361"
+        },
+        {
+            "datetime": "03-47",
+            "pos": "BELOW",
+            "price": "1914.925",
+            "strength": "2329"
+        },
+        {
+            "datetime": "05-17",
+            "pos": "BELOW",
+            "price": "1915.075",
+            "strength": "2239"
+        },
+        {
+            "datetime": "05-48",
+            "pos": "BELOW",
+            "price": "1915.2",
+            "strength": "2208"
+        },
+        {
+            "datetime": "07-17",
+            "pos": "BELOW",
+            "price": "1915.59",
+            "strength": "2119"
+        },
+        {
+            "datetime": "12-40",
+            "pos": "BELOW",
+            "price": "1916.26",
+            "strength": "1796"
+        },
+        {
+            "datetime": "12-42",
+            "pos": "BELOW",
+            "price": "1916.455",
+            "strength": "1794"
+        },
+        {
+            "datetime": "12-54",
+            "pos": "BELOW",
+            "price": "1916.99",
+            "strength": "1782"
+        },
+        {
+            "datetime": "13-00",
+            "pos": "BELOW",
+            "price": "1917.165",
+            "strength": "1776"
+        },
+        {
+            "datetime": "13-03",
+            "pos": "BELOW",
+            "price": "1917.305",
+            "strength": "1773"
+        },
+        {
+            "datetime": "13-14",
+            "pos": "BELOW",
+            "price": "1921.93",
+            "strength": "1762"
+        },
+        {
+            "datetime": "20-00",
+            "pos": "BELOW",
+            "price": "1922.515",
+            "strength": "1356"
+        },
+        {
+            "datetime": "20-07",
+            "pos": "BELOW",
+            "price": "1922.555",
+            "strength": "1349"
+        },
+        {
+            "datetime": "20-20",
+            "pos": "BELOW",
+            "price": "1922.69",
+            "strength": "1336"
+        },
+        {
+            "datetime": "23-31",
+            "pos": "BELOW",
+            "price": "1922.74",
+            "strength": "1209"
+        },
+        {
+            "datetime": "23-50",
+            "pos": "BELOW",
+            "price": "1923.045",
+            "strength": "1190"
+        },
+        {
+            "datetime": "14-06",
+            "pos": "BELOW",
+            "price": "1923.05",
+            "strength": "334"
+        },
+        {
+            "datetime": "14-09",
+            "pos": "BELOW",
+            "price": "1923.555",
+            "strength": "331"
+        },
+        {
+            "datetime": "14-11",
+            "pos": "BELOW",
+            "price": "1923.755",
+            "strength": "329"
+        },
+        {
+            "datetime": "14-57",
+            "pos": "BELOW",
+            "price": "1926.095",
+            "strength": "283"
+        },
+        {
+            "datetime": "15-13",
+            "pos": "BELOW",
+            "price": "1926.495",
+            "strength": "267"
+        },
+        {
+            "datetime": "15-21",
+            "pos": "BELOW",
+            "price": "1926.695",
+            "strength": "259"
+        },
+        {
+            "datetime": "15-26",
+            "pos": "BELOW",
+            "price": "1926.815",
+            "strength": "254"
+        },
+        {
+            "datetime": "15-36",
+            "pos": "BELOW",
+            "price": "1927.265",
+            "strength": "244"
+        },
+        {
+            "datetime": "16-08",
+            "pos": "BELOW",
+            "price": "1928.18",
+            "strength": "212"
+        },
+        {
+            "datetime": "16-14",
+            "pos": "BELOW",
+            "price": "1928.555",
+            "strength": "206"
+        },
+        {
+            "datetime": "16-17",
+            "pos": "BELOW",
+            "price": "1928.57",
+            "strength": "203"
+        }
+    ],
+    "signal": null
+}
