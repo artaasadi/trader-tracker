@@ -1,0 +1,108 @@
+{
+    "candle": {
+        "datetime": "2023-09-21-13-35",
+        "open": "1916.175",
+        "low": "1915.745",
+        "high": "1916.64",
+        "close": "1916.4"
+    },
+    "levels": [
+        {
+            "datetime": "2023-09-14-19-00",
+            "pos": "BELOW",
+            "price": "1908.3",
+            "strength": "432"
+        },
+        {
+            "datetime": "2023-09-14-19-45",
+            "pos": "BELOW",
+            "price": "1908.945",
+            "strength": "429"
+        },
+        {
+            "datetime": "2023-09-15-00-00",
+            "pos": "BELOW",
+            "price": "1909.9",
+            "strength": "417"
+        },
+        {
+            "datetime": "2023-09-15-00-30",
+            "pos": "BELOW",
+            "price": "1910.5",
+            "strength": "415"
+        },
+        {
+            "datetime": "2023-09-15-01-15",
+            "pos": "BELOW",
+            "price": "1911.105",
+            "strength": "412"
+        },
+        {
+            "datetime": "2023-09-15-03-15",
+            "pos": "BELOW",
+            "price": "1914.78",
+            "strength": "404"
+        },
+        {
+            "datetime": "2023-09-20-17-45",
+            "pos": "ABOVE",
+            "price": "1947.0",
+            "strength": "73"
+        },
+        {
+            "datetime": "2023-09-20-18-45",
+            "pos": "ABOVE",
+            "price": "1943.335",
+            "strength": "69"
+        },
+        {
+            "datetime": "2023-09-20-22-30",
+            "pos": "ABOVE",
+            "price": "1931.36",
+            "strength": "59"
+        },
+        {
+            "datetime": "2023-09-20-23-00",
+            "pos": "ABOVE",
+            "price": "1931.23",
+            "strength": "57"
+        },
+        {
+            "datetime": "2023-09-20-23-30",
+            "pos": "ABOVE",
+            "price": "1930.3000000000002",
+            "strength": "55"
+        },
+        {
+            "datetime": "2023-09-21-06-30",
+            "pos": "ABOVE",
+            "price": "1929.72",
+            "strength": "27"
+        },
+        {
+            "datetime": "2023-09-21-07-30",
+            "pos": "ABOVE",
+            "price": "1928.07",
+            "strength": "23"
+        },
+        {
+            "datetime": "2023-09-21-08-00",
+            "pos": "ABOVE",
+            "price": "1927.195",
+            "strength": "21"
+        },
+        {
+            "datetime": "2023-09-21-08-30",
+            "pos": "ABOVE",
+            "price": "1927.06",
+            "strength": "19"
+        },
+        {
+            "datetime": "2023-09-21-10-45",
+            "pos": "ABOVE",
+            "price": "1925.675",
+            "strength": "10"
+        }
+    ],
+    "signal": "None"
+}
