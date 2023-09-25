@@ -1,0 +1,156 @@
+{
+    "candle": {
+        "datetime": "2023-09-25-09-20",
+        "open": "1922.07",
+        "low": "1922.065",
+        "high": "1922.365",
+        "close": "1922.27"
+    },
+    "levels": [
+        {
+            "datetime": "2023-09-14-19-00",
+            "pos": "BELOW",
+            "price": "1908.3",
+            "strength": "597"
+        },
+        {
+            "datetime": "2023-09-14-19-45",
+            "pos": "BELOW",
+            "price": "1908.945",
+            "strength": "594"
+        },
+        {
+            "datetime": "2023-09-15-00-00",
+            "pos": "BELOW",
+            "price": "1909.9",
+            "strength": "582"
+        },
+        {
+            "datetime": "2023-09-15-00-30",
+            "pos": "BELOW",
+            "price": "1910.5",
+            "strength": "580"
+        },
+        {
+            "datetime": "2023-09-15-01-15",
+            "pos": "BELOW",
+            "price": "1911.105",
+            "strength": "577"
+        },
+        {
+            "datetime": "2023-09-15-03-15",
+            "pos": "BELOW",
+            "price": "1914.78",
+            "strength": "569"
+        },
+        {
+            "datetime": "2023-09-20-17-45",
+            "pos": "ABOVE",
+            "price": "1947.0",
+            "strength": "238"
+        },
+        {
+            "datetime": "2023-09-20-18-45",
+            "pos": "ABOVE",
+            "price": "1943.335",
+            "strength": "234"
+        },
+        {
+            "datetime": "2023-09-20-22-30",
+            "pos": "ABOVE",
+            "price": "1931.36",
+            "strength": "224"
+        },
+        {
+            "datetime": "2023-09-20-23-00",
+            "pos": "ABOVE",
+            "price": "1931.23",
+            "strength": "222"
+        },
+        {
+            "datetime": "2023-09-20-23-30",
+            "pos": "ABOVE",
+            "price": "1930.3000000000002",
+            "strength": "220"
+        },
+        {
+            "datetime": "2023-09-21-06-30",
+            "pos": "ABOVE",
+            "price": "1929.72",
+            "strength": "192"
+        },
+        {
+            "datetime": "2023-09-21-12-45",
+            "pos": "BELOW",
+            "price": "1914.9699999999998",
+            "strength": "167"
+        },
+        {
+            "datetime": "2023-09-21-13-15",
+            "pos": "BELOW",
+            "price": "1915.705",
+            "strength": "165"
+        },
+        {
+            "datetime": "2023-09-21-14-00",
+            "pos": "BELOW",
+            "price": "1916.555",
+            "strength": "162"
+        },
+        {
+            "datetime": "2023-09-21-16-15",
+            "pos": "BELOW",
+            "price": "1916.77",
+            "strength": "153"
+        },
+        {
+            "datetime": "2023-09-21-17-15",
+            "pos": "BELOW",
+            "price": "1919.44",
+            "strength": "149"
+        },
+        {
+            "datetime": "2023-09-21-20-15",
+            "pos": "BELOW",
+            "price": "1919.68",
+            "strength": "137"
+        },
+        {
+            "datetime": "2023-09-21-20-45",
+            "pos": "BELOW",
+            "price": "1919.93",
+            "strength": "135"
+        },
+        {
+            "datetime": "2023-09-21-23-00",
+            "pos": "BELOW",
+            "price": "1920.27",
+            "strength": "131"
+        },
+        {
+            "datetime": "2023-09-22-15-00",
+            "pos": "ABOVE",
+            "price": "1928.565",
+            "strength": "67"
+        },
+        {
+            "datetime": "2023-09-22-16-15",
+            "pos": "ABOVE",
+            "price": "1928.165",
+            "strength": "62"
+        },
+        {
+            "datetime": "2023-09-25-06-30",
+            "pos": "BELOW",
+            "price": "1921.15",
+            "strength": "10"
+        },
+        {
+            "datetime": "2023-09-25-07-15",
+            "pos": "ABOVE",
+            "price": "1926.9299999999998",
+            "strength": "7"
+        }
+    ],
+    "signal": "None"
+}
