@@ -1,0 +1,372 @@
+{
+    "candle": {
+        "datetime": "2023-10-05-14-25",
+        "open": "1818.97",
+        "low": "1818.9",
+        "high": "1819.315",
+        "close": "1818.9"
+    },
+    "levels": [
+        {
+            "datetime": "2023-09-20-17-45",
+            "pos": "ABOVE",
+            "price": "1947.0",
+            "strength": "985"
+        },
+        {
+            "datetime": "2023-09-20-18-45",
+            "pos": "ABOVE",
+            "price": "1943.335",
+            "strength": "981"
+        },
+        {
+            "datetime": "2023-09-20-22-30",
+            "pos": "ABOVE",
+            "price": "1931.36",
+            "strength": "971"
+        },
+        {
+            "datetime": "2023-09-20-23-00",
+            "pos": "ABOVE",
+            "price": "1931.23",
+            "strength": "969"
+        },
+        {
+            "datetime": "2023-09-20-23-30",
+            "pos": "ABOVE",
+            "price": "1930.3000000000002",
+            "strength": "967"
+        },
+        {
+            "datetime": "2023-09-21-06-30",
+            "pos": "ABOVE",
+            "price": "1929.72",
+            "strength": "939"
+        },
+        {
+            "datetime": "2023-09-22-15-00",
+            "pos": "ABOVE",
+            "price": "1928.565",
+            "strength": "814"
+        },
+        {
+            "datetime": "2023-09-22-16-15",
+            "pos": "ABOVE",
+            "price": "1928.165",
+            "strength": "809"
+        },
+        {
+            "datetime": "2023-09-25-07-15",
+            "pos": "ABOVE",
+            "price": "1926.9299999999998",
+            "strength": "754"
+        },
+        {
+            "datetime": "2023-09-25-12-45",
+            "pos": "ABOVE",
+            "price": "1926.365",
+            "strength": "732"
+        },
+        {
+            "datetime": "2023-09-25-14-00",
+            "pos": "ABOVE",
+            "price": "1925.785",
+            "strength": "727"
+        },
+        {
+            "datetime": "2023-09-25-15-45",
+            "pos": "ABOVE",
+            "price": "1918.375",
+            "strength": "720"
+        },
+        {
+            "datetime": "2023-09-25-17-30",
+            "pos": "ABOVE",
+            "price": "1917.495",
+            "strength": "713"
+        },
+        {
+            "datetime": "2023-09-25-22-30",
+            "pos": "ABOVE",
+            "price": "1916.775",
+            "strength": "698"
+        },
+        {
+            "datetime": "2023-09-25-23-15",
+            "pos": "ABOVE",
+            "price": "1916.59",
+            "strength": "695"
+        },
+        {
+            "datetime": "2023-09-26-08-30",
+            "pos": "ABOVE",
+            "price": "1915.635",
+            "strength": "659"
+        },
+        {
+            "datetime": "2023-09-26-09-00",
+            "pos": "ABOVE",
+            "price": "1913.795",
+            "strength": "657"
+        },
+        {
+            "datetime": "2023-09-26-11-30",
+            "pos": "ABOVE",
+            "price": "1913.1599999999999",
+            "strength": "647"
+        },
+        {
+            "datetime": "2023-09-26-12-15",
+            "pos": "ABOVE",
+            "price": "1911.725",
+            "strength": "644"
+        },
+        {
+            "datetime": "2023-09-26-13-00",
+            "pos": "ABOVE",
+            "price": "1909.065",
+            "strength": "641"
+        },
+        {
+            "datetime": "2023-09-26-14-30",
+            "pos": "ABOVE",
+            "price": "1908.205",
+            "strength": "635"
+        },
+        {
+            "datetime": "2023-09-26-15-45",
+            "pos": "ABOVE",
+            "price": "1904.215",
+            "strength": "630"
+        },
+        {
+            "datetime": "2023-09-27-02-00",
+            "pos": "ABOVE",
+            "price": "1902.7649999999999",
+            "strength": "594"
+        },
+        {
+            "datetime": "2023-09-27-03-00",
+            "pos": "ABOVE",
+            "price": "1900.81",
+            "strength": "590"
+        },
+        {
+            "datetime": "2023-09-27-05-45",
+            "pos": "ABOVE",
+            "price": "1898.405",
+            "strength": "579"
+        },
+        {
+            "datetime": "2023-09-27-07-00",
+            "pos": "ABOVE",
+            "price": "1897.73",
+            "strength": "574"
+        },
+        {
+            "datetime": "2023-09-27-07-30",
+            "pos": "ABOVE",
+            "price": "1897.345",
+            "strength": "572"
+        },
+        {
+            "datetime": "2023-09-27-08-15",
+            "pos": "ABOVE",
+            "price": "1896.79",
+            "strength": "569"
+        },
+        {
+            "datetime": "2023-09-27-09-00",
+            "pos": "ABOVE",
+            "price": "1896.6100000000001",
+            "strength": "566"
+        },
+        {
+            "datetime": "2023-09-27-10-30",
+            "pos": "ABOVE",
+            "price": "1896.3899999999999",
+            "strength": "560"
+        },
+        {
+            "datetime": "2023-09-27-11-45",
+            "pos": "ABOVE",
+            "price": "1894.015",
+            "strength": "555"
+        },
+        {
+            "datetime": "2023-09-27-13-00",
+            "pos": "ABOVE",
+            "price": "1892.2649999999999",
+            "strength": "550"
+        },
+        {
+            "datetime": "2023-09-27-14-30",
+            "pos": "ABOVE",
+            "price": "1886.625",
+            "strength": "544"
+        },
+        {
+            "datetime": "2023-09-27-15-15",
+            "pos": "ABOVE",
+            "price": "1883.915",
+            "strength": "541"
+        },
+        {
+            "datetime": "2023-09-27-16-00",
+            "pos": "ABOVE",
+            "price": "1881.79",
+            "strength": "538"
+        },
+        {
+            "datetime": "2023-09-27-19-15",
+            "pos": "ABOVE",
+            "price": "1878.2399999999998",
+            "strength": "525"
+        },
+        {
+            "datetime": "2023-09-28-00-00",
+            "pos": "ABOVE",
+            "price": "1877.755",
+            "strength": "511"
+        },
+        {
+            "datetime": "2023-09-29-13-15",
+            "pos": "ABOVE",
+            "price": "1877.56",
+            "strength": "367"
+        },
+        {
+            "datetime": "2023-09-29-14-45",
+            "pos": "ABOVE",
+            "price": "1861.335",
+            "strength": "361"
+        },
+        {
+            "datetime": "2023-09-29-16-30",
+            "pos": "ABOVE",
+            "price": "1855.875",
+            "strength": "354"
+        },
+        {
+            "datetime": "2023-09-29-17-45",
+            "pos": "ABOVE",
+            "price": "1851.025",
+            "strength": "349"
+        },
+        {
+            "datetime": "2023-09-29-18-15",
+            "pos": "ABOVE",
+            "price": "1850.0700000000002",
+            "strength": "347"
+        },
+        {
+            "datetime": "2023-09-29-19-45",
+            "pos": "ABOVE",
+            "price": "1849.99",
+            "strength": "341"
+        },
+        {
+            "datetime": "2023-09-29-20-30",
+            "pos": "ABOVE",
+            "price": "1848.865",
+            "strength": "338"
+        },
+        {
+            "datetime": "2023-10-02-00-00",
+            "pos": "ABOVE",
+            "price": "1848.4099999999999",
+            "strength": "329"
+        },
+        {
+            "datetime": "2023-10-02-01-15",
+            "pos": "ABOVE",
+            "price": "1846.88",
+            "strength": "324"
+        },
+        {
+            "datetime": "2023-10-02-01-45",
+            "pos": "ABOVE",
+            "price": "1845.965",
+            "strength": "322"
+        },
+        {
+            "datetime": "2023-10-02-06-45",
+            "pos": "ABOVE",
+            "price": "1845.19",
+            "strength": "302"
+        },
+        {
+            "datetime": "2023-10-02-07-15",
+            "pos": "ABOVE",
+            "price": "1845.0",
+            "strength": "300"
+        },
+        {
+            "datetime": "2023-10-02-08-45",
+            "pos": "ABOVE",
+            "price": "1842.6599999999999",
+            "strength": "294"
+        },
+        {
+            "datetime": "2023-10-02-13-45",
+            "pos": "ABOVE",
+            "price": "1837.605",
+            "strength": "274"
+        },
+        {
+            "datetime": "2023-10-02-18-15",
+            "pos": "ABOVE",
+            "price": "1833.395",
+            "strength": "256"
+        },
+        {
+            "datetime": "2023-10-03-14-45",
+            "pos": "ABOVE",
+            "price": "1831.075",
+            "strength": "179"
+        },
+        {
+            "datetime": "2023-10-05-04-15",
+            "pos": "ABOVE",
+            "price": "1829.1",
+            "strength": "39"
+        },
+        {
+            "datetime": "2023-10-05-05-30",
+            "pos": "ABOVE",
+            "price": "1828.175",
+            "strength": "34"
+        },
+        {
+            "datetime": "2023-10-05-06-45",
+            "pos": "ABOVE",
+            "price": "1823.77",
+            "strength": "29"
+        },
+        {
+            "datetime": "2023-10-05-10-30",
+            "pos": "ABOVE",
+            "price": "1823.33",
+            "strength": "14"
+        },
+        {
+            "datetime": "2023-10-05-11-00",
+            "pos": "ABOVE",
+            "price": "1823.1",
+            "strength": "12"
+        },
+        {
+            "datetime": "2023-10-05-12-00",
+            "pos": "ABOVE",
+            "price": "1823.0900000000001",
+            "strength": "8"
+        },
+        {
+            "datetime": "2023-10-05-12-45",
+            "pos": "BELOW",
+            "price": "1815.135",
+            "strength": "5"
+        }
+    ],
+    "signal": "None"
+}
