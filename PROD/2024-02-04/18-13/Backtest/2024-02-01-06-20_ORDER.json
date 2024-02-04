@@ -1,0 +1,12 @@
+{
+    "Algo": "Spike",
+    "Balance": 100000,
+    "Current Position": {
+        "Position": "SHORT",
+        "Volume": 952.3809523807874,
+        "SL": 2042.78,
+        "TP": 2042.465,
+        "Entry Point": 2042.675,
+        "Entry Time": "2024-02-01-06-20"
+    }
+}

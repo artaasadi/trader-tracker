@@ -1,0 +1,24 @@
+{
+    "candle": {
+        "datetime": "2024-01-25-16-45",
+        "open": "2014.415",
+        "low": "2014.195",
+        "high": "2018.445",
+        "close": "2018.44",
+        "type": {
+            "hammer": 0.0,
+            "inverted_hammer": 0.0,
+            "long_bar": 0.8941176470588663
+        },
+        "color": {
+            "red": 0,
+            "green": 1
+        }
+    },
+    "uptrend": 0,
+    "downtrend": 0,
+    "signal": {
+        "Position": "FLAT",
+        "SL": 0
+    }
+}
